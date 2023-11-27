@@ -5,7 +5,7 @@ El objetivo de esta práctica es el de familiarizarnos con el uso del sonido, mi
 
 ## Gifs
 Ejercicio 1
-![Ejercicio 1](/gifs/)
+![Ejercicio 1](/gifs/P8-EJ-1.gif)
 
 Ejercicio 2
 ![Ejercicio 2](/gifs/)
